@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Cleanclip
+Comment=cliboard manager
+Type=Application
+Icon=io.wrongway.Cleanclip
+Exec=cleanclip %F
+Terminal=false
+StartupNotify=true
+Categories=COSMIC
+Keywords=COSMIC
+MimeType=
